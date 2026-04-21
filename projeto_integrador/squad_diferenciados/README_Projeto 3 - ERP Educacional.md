@@ -1,14 +1,14 @@
-\<h1 align="center"\>🎓 Projeto 3: ERP Educacional \- Gestão e Alocação\</h1\>
+<h1 align="center">🎓 Projeto 3: ERP Educacional - Gestão e Alocação</h1>
 
-\<p align="center"\>
+<p align="center">
 
-\<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white" alt="Python Badge"/\>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white" alt="Python Badge"/>
 
-\<img src="https://www.google.com/search?q=https://img.shields.io/badge/Educa%C3%A7%C3%A3o-4B0082%3Fstyle%3Dfor-the-badge%26logo%3Dbook%26logoColor%3Dwhite" alt="Education Badge"/\>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Educa%C3%A7%C3%A3o-4B0082%3Fstyle%3Dfor-the-badge%26logo%3Dbook%26logoColor%3Dwhite" alt="Education Badge"/>
 
-\<img src="https://www.google.com/search?q=https://img.shields.io/badge/GitHub\_Team-181717%3Fstyle%3Dfor-the-badge%26logo%3Dgithub%26logoColor%3Dwhite" alt="GitHub Badge"/\>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/GitHub\_Team-181717%3Fstyle%3Dfor-the-badge%26logo%3Dgithub%26logoColor%3Dwhite" alt="GitHub Badge"/>
 
-\</p\>
+</p>
 
 **Bem-vindo(a) ao Projeto 3\!** Você e sua equipe construirão o sistema nervoso de uma instituição de ensino. O desafio une dois problemas complexos: a alocação de horários (impedindo choques) e o cálculo matricial do diário de classe.
 
